@@ -6,7 +6,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 const ProductCard = (props) => {
     const {name,image,price} = props.products
     return (
-        <div className='card'>
+        <div className='cards'>
             <div className="card-info">
                 <div className="img"><img src={image} alt="mouses" /></div>
                 <h3>{name}</h3>

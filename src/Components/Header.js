@@ -4,7 +4,7 @@ const Header = () => {
     return (
        
      <div>
-       <h1 className='title'> MOUSE CORNER </h1>
+       <h1 className='brand-name'> MOUSE CORNER </h1>
     </div>
       
     );
